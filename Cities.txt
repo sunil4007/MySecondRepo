@@ -2,3 +2,5 @@ Hyderabad
 Chennai
 Mumbai
 Ahmadabad
+NewYork
+Seattle
